@@ -2,7 +2,7 @@
 I'm a Data Scientist 💻, Student 🧑‍🎓, and Job Seeker 💼!
 </h2> 
 
-I love investigate later articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
+I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
 
 ### 🤝 Connect with me:
 
@@ -12,7 +12,7 @@ I love investigate later articles about Artificial Neural Networks and Machine L
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently preparing for
+## 🔭 I'm currently improving, learning and preparing for
 
 - TensorFlow Developer Certificate
 - Convolutional Neural Nerwork
@@ -25,7 +25,6 @@ I love investigate later articles about Artificial Neural Networks and Machine L
 - 📱 Transfer Learning
 - Linear Algebra
 - YoloV3
-- Object Detection 
 
 ## 💼 Technical Skills
 
