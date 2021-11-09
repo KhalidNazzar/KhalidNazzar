@@ -37,9 +37,6 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 ![](https://img.shields.io/badge/ANN-RNN-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/ANN-NLP-informational?style=flat&logo=SQLite&color=003B57)
 
-</br>
-
-![](https://img.shields.io/badge/Style-Python-informational?style=flat&logo=Python&color=0694F3)
 
 
 
