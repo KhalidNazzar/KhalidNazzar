@@ -33,7 +33,7 @@ I love investigate later articles about Artificial Neural Networks and Machine L
 ![](https://img.shields.io/badge/Analyze-Statistics-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-ANN-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/ANN-Transfer L-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/ANN-Transfer-L-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/ANN-CNN-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/ANN-RNN-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/ANN-NLP-informational?style=flat&logo=SQLite&color=003B57)
@@ -47,10 +47,8 @@ I love investigate later articles about Artificial Neural Networks and Machine L
 
 ## 📝 Latest Blog Posts
 
-- [Decision Tree in Machine Learning](https://medium.com/
-@khalid.nazzar/decision-tree-in-machine-learning-1729cca767f7)
-- [Support Vector Machine PART1](https://medium.com/@khalid.nazzar/
-support-vector-machine-part1-4d8bb6c2ef11)
+- [Decision Tree in Machine Learning](https://medium.com/@khalid.nazzar/decision-tree-in-machine-learning-1729cca767f7)
+- [Support Vector Machine PART1](https://medium.com/@khalid.nazzar/support-vector-machine-part1-4d8bb6c2ef11)
 
 ## 📈 GitHub Stats 
 
