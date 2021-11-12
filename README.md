@@ -52,4 +52,4 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidNazzar&layout=compact)](https://github.com/KhalidNazzar)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=KhalidNazzar.KhalidNazzar)](https://www.khalid.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=KhalidNazzar.KhalidNazzar)](https://github.com/KhalidNazzar)
