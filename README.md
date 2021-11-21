@@ -43,6 +43,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ## 📝 Latest Blog Posts
 
+- [Hypothesis Testing](https://medium.com/@khalid.nazzar/hypothesis-testing-3d974c3b06f5)
 - [Decision Tree in Machine Learning](https://medium.com/@khalid.nazzar/decision-tree-in-machine-learning-1729cca767f7)
 - [Support Vector Machine PART1](https://medium.com/@khalid.nazzar/support-vector-machine-part1-4d8bb6c2ef11)
 
