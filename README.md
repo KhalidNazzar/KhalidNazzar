@@ -15,16 +15,16 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 ## 🔭 I'm currently improving, learning and preparing for
 
 - TensorFlow Developer Certificate
-- Convolutional Neural Nerwork
-- Object Dectection (Working on it soon...)
-- My next article
+- Reinforcement learning
+- Realtime Action Recognition
+- StartUp-SignLanguageTranslator
 - My SQL skill
 
 ## 🌱 I'm currently learning
 
-- 📱 Transfer Learning
+- 📱 Time Series Forecasting
 - Linear Algebra
-- YoloV3
+- Julia
 
 ## 💼 Technical Skills
 
@@ -49,7 +49,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KhalidNazzar)](https://github.com/KhalidNazzar)
+[![Khalid's github stats](https://github-readme-stats.vercel.app/api?username=KhalidNazzar)](https://github.com/KhalidNazzar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidNazzar&layout=compact)](https://github.com/KhalidNazzar)
 
