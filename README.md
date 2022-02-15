@@ -1,6 +1,9 @@
 <h2 align="center">
-I'm a Data Scientist 💻 and Student 🧑‍🎓!
+I am Data Scientist | Certified Tensorflow Developer 💻 and Student 🧑‍🎓!
 </h2> 
+
+## Google Certificate
+- [Official Tensorflow Developer Certicate](https://www.credential.net/92d44221-a593-4a42-b787-8ca7e264919f#gs.p5pee0)
 
 I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
 
@@ -14,17 +17,14 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ## 🔭 I'm currently improving, learning and preparing for
 
-- TensorFlow Developer Certificate
 - Reinforcement learning
-- Realtime Action Recognition
 - StartUp-SignLanguageTranslator
 - My SQL skill
 
 ## 🌱 I'm currently learning
 
 - 📱 Time Series Forecasting
-- Linear Algebra
-- Julia
+
 
 ## 💼 Technical Skills
 
@@ -43,6 +43,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ## 📝 Latest Blog Posts
 
+- [All You Need about Introduction to and Types of Neural Networks](https://medium.com/@khalid.nazzar/all-you-need-about-introduction-to-and-types-of-neural-networks-f1ade04f26b1)
 - [Hypothesis Testing](https://medium.com/@khalid.nazzar/hypothesis-testing-3d974c3b06f5)
 - [Decision Tree in Machine Learning](https://medium.com/@khalid.nazzar/decision-tree-in-machine-learning-1729cca767f7)
 - [Support Vector Machine PART1](https://medium.com/@khalid.nazzar/support-vector-machine-part1-4d8bb6c2ef11)
