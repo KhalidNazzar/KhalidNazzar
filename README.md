@@ -2,10 +2,10 @@
 I am Data Scientist | Certified Tensorflow Developer 💻 and Student 🧑‍🎓!
 </h2> 
 
+I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
+
 ## Google Certificate
 - [Official Tensorflow Developer Certicate](https://www.credential.net/92d44221-a593-4a42-b787-8ca7e264919f#gs.p5pee0)
-
-I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
 
 ### 🤝 Connect with me:
 
