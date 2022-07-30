@@ -1,14 +1,27 @@
+<h3 align="center">
+  Welcome to Khalid Nazarov's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=922B21&height=90&lines=Hi%2C+Welcome+to+my+GitHub.+Nice+to+see+you+here)](https://git.io/typing-svg)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning%20Engineer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <h2 align="center">
-I am Data Scientist | Certified Tensorflow Developer 💻 and Student 🧑‍🎓!
+I am Data Scientist | Certified Tensorflow Developer 💻 and Master Student 🧑‍🎓!
 </h2> 
 
-I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also I am enthusiastic about exploration and discovery.
+I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also, I am enthusiastic about exploration and discovery.
 
 ## Google Certificate
 - [Official Tensorflow Developer Certicate](https://www.credential.net/92d44221-a593-4a42-b787-8ca7e264919f#gs.p5pee0)
+
+## Other Certificates
+- [Machine Learning A-Z: Hands On Python & R İn Data Science](https://ude.my/UC-1468683b-a492-4947-a353-ee93fb948e1a)
+- [Train YOLO for Object Detection with Custom Data](ude.my/UC-4d5d96d6-bc36-4372-9554-c9dc9efe0564)
+- [Data Cleaning and Preprocessing with pandas](https://learn.365datascience.com/c/4f3861e28c)
+- [Data Preprocessing with Numpy](https://learn.365datascience.com/c/c8f29b8255)
 
 ### 🤝 Connect with me:
 
@@ -18,15 +31,15 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently improving, learning and preparing for
+## 🔭 I'm currently improving:
 
-- Reinforcement learning
-- StartUp-SignLanguageTranslator
-- My SQL skill
+- Reinforcement Learning
+- Natural Language Precessing
+- AWS
 
 ## 🌱 I'm currently learning
 
-- 📱 Time Series Forecasting
+- 📱 Cloud Engineering
 
 
 ## 💼 Technical Skills
