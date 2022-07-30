@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-I am Data Scientist | Certified Tensorflow Developer 💻 and Master Student 🧑‍🎓!
+I am Machine Learning Engineer & Data Scientist | Certified Tensorflow Developer 💻 and Master Student 🧑‍🎓!
 </h2> 
 
 I love investigate latest articles about Artificial Neural Networks and Machine Learning. I love the challenge of finding caches and spending time to meet new people. Also, I am enthusiastic about exploration and discovery.
