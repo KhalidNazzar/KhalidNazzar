@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=922B21&height=90&lines=Hi%2C+Welcome+to+my+GitHub.+Nice+to+see+you+here)](https://git.io/typing-svg)
+
 <h2 align="center">
 I am Data Scientist | Certified Tensorflow Developer 💻 and Student 🧑‍🎓!
 </h2> 
