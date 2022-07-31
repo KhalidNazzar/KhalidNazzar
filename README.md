@@ -22,7 +22,7 @@ I love investigate latest articles about Artificial Neural Networks and Machine 
 
 ## Other Certificates
 - [Machine Learning A-Z: Hands On Python & R İn Data Science](https://ude.my/UC-1468683b-a492-4947-a353-ee93fb948e1a)
-- [Train YOLO for Object Detection with Custom Data](ude.my/UC-4d5d96d6-bc36-4372-9554-c9dc9efe0564)
+- [Train YOLO for Object Detection with Custom Data](https://www.udemy.com/certificate/UC-4d5d96d6-bc36-4372-9554-c9dc9efe0564/)
 - [Data Cleaning and Preprocessing with pandas](https://learn.365datascience.com/c/4f3861e28c)
 - [Data Preprocessing with Numpy](https://learn.365datascience.com/c/c8f29b8255)
 
